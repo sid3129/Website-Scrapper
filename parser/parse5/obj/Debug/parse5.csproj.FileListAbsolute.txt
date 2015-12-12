@@ -22,3 +22,6 @@ C:\Users\siddarth\Documents\Visual Studio 2013\Projects\parser\parse5\obj\Debug\
 C:\Users\siddarth\Documents\Visual Studio 2013\Projects\parser\parse5\bin\Debug\parse5.exe
 C:\Users\siddarth\Documents\Visual Studio 2013\Projects\parser\parse5\bin\Debug\parse5.pdb
 C:\Users\siddarth\Documents\Visual Studio 2013\Projects\parser\parse5\obj\Debug\parse5.csprojResolveAssemblyReference.cache
+C:\Users\siddarth\Documents\GitHub\Website-Scrapper\parser\parse5\bin\Debug\parse5.exe.config
+C:\Users\siddarth\Documents\GitHub\Website-Scrapper\parser\parse5\obj\Debug\parse5.exe
+C:\Users\siddarth\Documents\GitHub\Website-Scrapper\parser\parse5\obj\Debug\parse5.pdb
